@@ -1,0 +1,11 @@
+#centerLogo {
+    display: block;
+  margin: auto;
+}
+body {
+font-family: 'Quicksand', sans-serif;
+
+background-image: url(water.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
